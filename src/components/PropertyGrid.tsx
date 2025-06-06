@@ -9,8 +9,8 @@ const mockProperties = [
     rating: 4.9,
     reviewCount: 124,
     images: [
-      'https://images.unsplash.com/photo-1562957525-0b6fd7d9329b?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80',
-      'https://images.unsplash.com/photo-1571896349842-33c89424de2d?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80'
+      'https://images.unsplash.com/photo-1705672354908-a068661bc81d?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+      'https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=800&h=600&fit=crop&auto=format'
     ],
     amenities: ['Ocean View', 'Infinity Pool', 'WiFi', 'Kitchen', 'Parking'],
     type: 'Villa',
@@ -24,8 +24,8 @@ const mockProperties = [
     rating: 4.8,
     reviewCount: 89,
     images: [
-      'https://images.unsplash.com/photo-1564013799919-ab600027ffc6?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80',
-      'https://images.unsplash.com/photo-1501594907352-04cda38ebc29?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80'
+      'https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&h=600&fit=crop&auto=format',
+      'https://images.unsplash.com/photo-1501594907352-04cda38ebc29?w=800&h=600&fit=crop&auto=format'
     ],
     amenities: ['Beach Access', 'Fireplace', 'WiFi', 'Hot Tub'],
     type: 'Cabin'
@@ -38,8 +38,8 @@ const mockProperties = [
     rating: 4.9,
     reviewCount: 203,
     images: [
-      'https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80',
-      'https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80'
+      'https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&h=600&fit=crop&auto=format',
+      'https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&h=600&fit=crop&auto=format'
     ],
     amenities: ['Floor-to-Ceiling Windows', 'Modern Kitchen', 'WiFi', 'Deck'],
     type: 'Modern House'
@@ -52,8 +52,8 @@ const mockProperties = [
     rating: 4.7,
     reviewCount: 67,
     images: [
-      'https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80',
-      'https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80'
+      'https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?w=800&h=600&fit=crop&auto=format',
+      'https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&h=600&fit=crop&auto=format'
     ],
     amenities: ['Scandinavian Design', 'Beach Access', 'WiFi', 'Garden'],
     type: 'House'
@@ -66,8 +66,8 @@ const mockProperties = [
     rating: 5.0,
     reviewCount: 45,
     images: [
-      'https://images.unsplash.com/photo-1613490493576-7fde63acd811?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80',
-      'https://images.unsplash.com/photo-1582063289852-62e3ba2747f8?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80'
+      'https://images.unsplash.com/photo-1613490493576-7fde63acd811?w=800&h=600&fit=crop&auto=format',
+      'https://images.unsplash.com/photo-1582063289852-62e3ba2747f8?w=800&h=600&fit=crop&auto=format'
     ],
     amenities: ['Private Beach', 'Spa', 'Chef Kitchen', 'WiFi', 'Concierge'],
     type: 'Luxury Villa',
@@ -81,8 +81,8 @@ const mockProperties = [
     rating: 4.6,
     reviewCount: 156,
     images: [
-      'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80',
-      'https://images.unsplash.com/photo-1600607687644-c7171b42498e?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80'
+      'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop&auto=format',
+      'https://images.unsplash.com/photo-1600607687644-c7171b42498e?w=800&h=600&fit=crop&auto=format'
     ],
     amenities: ['Eco-Friendly', 'Beach Access', 'WiFi', 'Bike Rental'],
     type: 'Cottage'
